@@ -1,0 +1,95 @@
+
+.team-section{
+width: 100%;
+height: 30%;
+/*height: 2070px;*/
+}
+
+.team-section h3{
+	margin: 1px;
+	background-color: #78ad7a;
+	height: 30px;
+
+	padding-top: 5px;
+}
+/*  */
+	.missionvisiontitle{
+		display: flex;
+		width: 100%;
+		height: 10%;
+	}
+	.t1{
+		width: 300px;
+    margin-left: 50%;
+		width: 100%;
+		height: 30px;
+		display: block;
+		background-color: #78ad7a;
+	}
+	.t1 h3{
+		margin-top: 5px;
+	}
+	.t2 h3{
+		margin-top: 5px;
+
+	}
+
+
+	.t2{
+		width: 100%;
+		height: 10%;
+		display: block;
+		margin-left: 10px;
+		background-color: #78ad7a;
+	}
+	.misionvision{
+		width: 100%;
+		margin-bottom: 20%;
+		display: flex;
+
+	}
+	.mission{
+		width: 50%;
+		height: 50%;
+		margin-left: 10px;
+		color:white;
+	}
+
+	.mission p{
+		margin-left: 10px;
+
+	}
+	.vision p{
+		margin-left: 10px;
+
+	}
+	.vision{
+		width: 100%;
+		height: 70px;
+		margin-left: 10px;
+
+
+	}
+	.name{
+		margin: 0px;
+
+	}
+
+	.pictures{
+
+	margin: 0 auto;
+	}
+	.profile p{
+		margin-left: 10px;
+		font-family: adobe arobic;
+	}
+	.profile1 p{
+		margin-left: 10px;
+	}
+	.border{
+		width: 180px;
+		height: 5px;
+		margin-top: 10px;
+		margin-left:180px;
+		background-color: black;
+	}
